@@ -6,9 +6,7 @@ export default () => (
   <RouteData
     render={({ post }) => (
       <div>
-        <Link to="/blog/">{'<'} Back</Link>
-        <br />
-        <h3>{post.title}</h3>
+        <h1>{post.title}</h1>
         <p>{post.body}</p>
       </div>
     )}
