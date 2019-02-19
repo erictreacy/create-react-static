@@ -7,9 +7,6 @@ This repo is a ready-to-deploy mirror of React-Static's `basic` example template
 - File imports
 - Automatic Routing
 
-## React-Static Documentation
-Visit the  [React-Static Github Repo](https://github.com/nozzle/react-static)!
-
 ## Quick Start
 
 1. Install dependencies: `yarn` or `npm install`
